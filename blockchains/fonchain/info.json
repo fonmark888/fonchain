@@ -1,0 +1,29 @@
+{
+    "name": "FONChain",
+    "type": "coin",
+    "symbol": "FSC",
+    "decimals": 18,
+    "description": "FONChain is a high-performance EVM-compatible public chain focused on the Web4 ecosystem and decentralized community empowerment.",
+    "website": "https://fonchain.io",
+    "explorer": "https://fonscan.io",
+    "status": "active",
+    "id": "201022",
+    "links": [
+        {
+            "name": "twitter",
+            "url": "https://x.com/FONSmartChain"
+        },
+        {
+            "name": "telegram",
+            "url": "https://t.me/FONSmartChain"
+        },
+        {
+            "name": "github",
+            "url": "https://github.com/FONSmartChain"
+        },
+        {
+            "name": "whitepaper",
+            "url": "https://docs.fonscan.io/scanapi/white-paper"
+        }
+    ]
+}
